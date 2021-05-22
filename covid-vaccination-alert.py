@@ -40,8 +40,8 @@ def main():
             continue
         
 if __name__ == '__main__':
-    account_sid = 'ACaeee2b5673a49dd89e983783e3a05b19'
-    auth_token = 'f68c1d48a6f4a99c2cae449647dbc367'
+    account_sid = 'X'
+    auth_token = 'X'
 
     client = Client(account_sid, auth_token)
 
